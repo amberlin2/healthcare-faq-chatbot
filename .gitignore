@@ -1,0 +1,14 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Generated database
+chroma_db/
+
+# Notebook temporary files
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.streamlit/secrets.toml

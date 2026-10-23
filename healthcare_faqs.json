@@ -1,0 +1,44 @@
+[
+  {
+    "id": "faq_001",
+    "topic": "appointments",
+    "question": "How do I schedule an appointment?",
+    "answer": "Appointments can be scheduled through the patient portal or by calling the scheduling office Monday through Friday, from 8 AM to 5 PM.",
+    "source": "Fictional clinic appointment guide"
+  },
+  {
+    "id": "faq_002",
+    "topic": "appointments",
+    "question": "How do I cancel an appointment?",
+    "answer": "Cancel through the patient portal or call the scheduling office. Please provide at least 24 hours of notice.",
+    "source": "Fictional clinic appointment guide"
+  },
+  {
+    "id": "faq_003",
+    "topic": "visits",
+    "question": "What should I bring to my first appointment?",
+    "answer": "Bring a photo ID, your insurance card, and a current list of medications. Arrive 15 minutes before your scheduled appointment.",
+    "source": "Fictional clinic visitor guide"
+  },
+  {
+    "id": "faq_004",
+    "topic": "parking",
+    "question": "Where can patients park?",
+    "answer": "Free patient parking is available in Lot A beside the main entrance. Accessible parking spaces are located near the entrance.",
+    "source": "Fictional clinic visitor guide"
+  },
+  {
+    "id": "faq_005",
+    "topic": "billing",
+    "question": "Who can help me understand my bill?",
+    "answer": "Contact the billing office through the patient portal. Billing staff are available Monday through Friday, from 9 AM to 4 PM.",
+    "source": "Fictional clinic billing guide"
+  },
+  {
+    "id": "faq_006",
+    "topic": "records",
+    "question": "How do I request a copy of my medical records?",
+    "answer": "Submit a medical records request through the patient portal. Requests are normally processed within 7 business days.",
+    "source": "Fictional clinic medical records guide"
+  }
+]
